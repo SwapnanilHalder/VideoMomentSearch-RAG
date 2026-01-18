@@ -1,0 +1,24 @@
+# --- Dependencies & Envs ---
+node_modules/
+venv/
+__pycache__/
+
+# Binaries and Executables
+*.exe
+
+# --- Generated / Large Data ---
+downloads/
+db.json
+
+# --- Build Artifacts ---
+frontend/dist/
+backend/video-search
+backend/tmp/
+
+# --- System Files ---
+.DS_Store
+.env
+
+# --- IDEs ---
+.vscode/
+.idea/

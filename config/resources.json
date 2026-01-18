@@ -1,0 +1,16 @@
+{
+  "ollama_url": "http://localhost:11434/api/embeddings",
+  "embedding_model": "bge-m3",
+  "videos": [
+    "https://www.youtube.com/watch?v=pP_dSNz_EdQ",
+    "https://www.youtube.com/watch?v=IoiHI7p12Ao",
+    "https://www.youtube.com/watch?v=IHkyFhU6JEY&pp=0gcJCU8KAYcqIYzv",
+    "https://www.youtube.com/watch?v=o_LRtAomJCs",
+    "https://www.youtube.com/watch?v=Kcka7rzcxLk",
+    "https://www.youtube.com/watch?v=Zqu0VaJw3vo",
+    "https://www.youtube.com/watch?v=TswQeKftnaw",
+    "https://www.youtube.com/watch?v=YrUBFXa1KUY",
+    "https://www.youtube.com/watch?v=H6MrR5NbTZA",
+    "https://www.youtube.com/watch?v=tOou_GJ9Ddk"
+  ]
+}
